@@ -1,0 +1,235 @@
+#CrystalCollector {
+    position: relative;
+    top: 740px;
+    left: 170px;
+    color: #4aaaa5;
+}
+
+#hw {
+    position: relative;
+    top: 740px;
+    left: 170px;
+    color: #4aaaa5;
+}
+
+#img5{
+    float: left;
+    position: absolute;
+    width: 30%;
+    right: 570px;
+    bottom: 165px;
+  
+}
+
+#img4{
+    position: absolute;
+    left: 260px;
+    top: 340px;
+  
+}
+
+#img3{
+    float: static;
+    position: absolute;
+    top: 340px;
+    left: 20px;
+
+
+}
+
+#img2{
+    float:left;
+    width: 30%;
+    position: relative;
+    left: 0px;
+}
+
+.container{
+    float:left;
+    position: relative;
+    width: 30%;
+    height: 100px;
+    
+}
+
+.textblock {
+    background-color: #4aaaa5;
+    width: 200px;
+    height: 45px;
+    color: white;
+    position: absolute;
+    top: 95px;
+    left: 0px;
+    text-align: center;
+    line-height: 15px;
+    font-family: "Georgia, Times, Times New Roman, serif";
+    font-size: 12px;
+    
+
+}
+
+
+.PortfolioInfo {
+    background-color:#ffffff;
+    width: 800px;
+    height: 780px;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    padding: 20px
+}
+
+
+/*btwn contact and portfolio*/ 
+
+#submit {
+    height: 50px;
+    width: 100px;
+    background-color: #4aaaa5;
+    color: white;
+    position: absolute;
+    left: 170px;
+    bottom: -62px;
+    font-size: 15px;
+
+}
+
+input[type=text] {
+    width: 800px;
+    height: 20px
+}
+
+input[type=comments] {
+    width: 800px;
+    height: 200px
+}
+
+#About2 {
+    color: #666666;
+   position: absolute;
+   right: 300px;
+   top: 100px;
+   
+}
+
+#Portfolio2 {
+    color: #666666;
+   position: absolute;
+   right: 200px;
+   top: 100px;
+   
+}
+
+#Contact2 {
+    color: #666666;
+   position: absolute;
+   right: 100px;
+   top: 100px;
+  
+   
+}
+
+
+
+
+
+.ContactInfo {
+    background-color:#ffffff;
+    width: 800px;
+    height: 500px;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    padding: 20px
+}
+
+
+/*index.html btwn contact.html*/
+
+#About {
+    color: #666666;
+   position: absolute;
+   right: 300px;
+   top: 50px;
+   
+}
+
+#Portfolio {
+    color: #666666;
+   position: absolute;
+   right: 200px;
+   top: 50px;
+   
+}
+
+#Contact {
+    color: #666666;
+   position: absolute;
+   right: 100px;
+   top: 50px;
+   
+}
+
+.MeBox {
+    background-color:#4aaaa5;
+    color:#ffffff;
+    font-size: 30px;
+    padding: 0px;
+    height: 80px;
+    width: 200px;
+    position: relative;
+    left: 150px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 80px;
+    
+
+}
+
+.whiterec {
+    background-color:#ffffff;
+    height: 80px;
+}
+
+
+.greenrec {
+    background-color:#4aaaa5;
+    height: 10px;
+}
+
+.rectangle {
+    background-color: #666666;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+
+
+}
+body {
+    background-image: url("https://images.freecreatives.com/wp-content/uploads/2015/04/white-linen-background.jpg");
+    margin: 0;
+}
+
+h1 {
+    color:#4aaaa5;
+    position: relative;
+    bottom: 10px;
+
+}
+
+.AboutInfo {
+    color: #777777;
+    background-color: #ffffff;
+    width: 960px;
+    padding: 20px;
+    position: absolute;
+   right: 100px;
+   top: 100px;
+  
+}
+
+#img {
+    width: 250px;
+    float: left;
+
+}
