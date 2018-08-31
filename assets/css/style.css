@@ -1,3 +1,10 @@
+#TriviaGame {
+    position: relative;
+    top: 750px;
+    left: 170px;
+    color: #4aaaa5;
+}
+
 #CrystalCollector {
     position: relative;
     top: 740px;
@@ -17,7 +24,8 @@
     position: absolute;
     width: 30%;
     right: 570px;
-    bottom: 165px;
+    bottom: 170px;
+/*Change the bottom whenever new project is added*/
   
 }
 
@@ -72,7 +80,7 @@
 .PortfolioInfo {
     background-color:#ffffff;
     width: 800px;
-    height: 780px;
+    height: 790px;
     position: absolute;
     top: 180px;
     left: 150px;
