@@ -1,20 +1,27 @@
+#GifTastic {
+    position: relative;
+    top: 730px;
+    left: 170px;
+    color: #4aaaa5;
+}
+
 #TriviaGame {
     position: relative;
-    top: 750px;
+    top: 720px;
     left: 170px;
     color: #4aaaa5;
 }
 
 #CrystalCollector {
     position: relative;
-    top: 740px;
+    top: 710px;
     left: 170px;
     color: #4aaaa5;
 }
 
 #hw {
     position: relative;
-    top: 740px;
+    top: 715px;
     left: 170px;
     color: #4aaaa5;
 }
@@ -24,7 +31,7 @@
     position: absolute;
     width: 30%;
     right: 570px;
-    bottom: 170px;
+    bottom: 300px;
 /*Change the bottom whenever new project is added*/
   
 }
@@ -80,12 +87,13 @@
 .PortfolioInfo {
     background-color:#ffffff;
     width: 800px;
-    height: 790px;
+    height: 900px;
     position: absolute;
     top: 180px;
     left: 150px;
     padding: 20px
 }
+/*Change the height whenever new project is added*/
 
 
 /*btwn contact and portfolio*/ 
